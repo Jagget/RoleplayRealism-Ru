@@ -1,0 +1,36 @@
+{
+    "ModTitle": "RoleplayRealism-Ru",
+    "ModVersion": "1.0.0",
+    "ModAuthor": "Jagget",
+    "ContactInfo": "https://forums.dfworkshop.net",
+    "DFUnity_Version": "1.0.0",
+    "GUID": "97481d4a-46d4-4bf6-9a72-a5f4040daa58",
+    "Files": [
+        "Assets/Game/Mods/RoleplayRealismRu/RoleplayRealismModData.csv",
+        "Assets/Game/Mods/RoleplayRealismRu/Scripts/RuRoleplayRealismLoader.cs",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_21-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_22-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_23-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_24-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_25-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_26-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_27-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_28-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_29-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_30-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_31-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_32-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_33-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_34-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_35-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_36-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/Textures/BUTTONS.RCI_37-0.png"
+    ],
+    "Dependencies": [
+        {
+            "Name": "roleplayrealism",
+            "IsOptional": false,
+            "IsPeer": false
+        }
+    ]
+}
