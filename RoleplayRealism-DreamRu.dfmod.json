@@ -1,0 +1,38 @@
+{
+    "ModTitle": "RoleplayRealism Ru - DREAM",
+    "ModVersion": "1.5",
+    "ModAuthor": "Jagget",
+    "ContactInfo": "https://forums.dfworkshop.net",
+    "DFUnity_Version": "1.0.0",
+    "ModDescription": "\u041f\u0435\u0440\u0435\u0432\u043e\u0434 \u0434\u043b\u044f \u043c\u043e\u0434\u0430 Roleplay and Realism",
+    "GUID": "97481d4a-46d4-4bf6-9a72-a5f4040daa58",
+    "Files": [
+        "Assets/Game/Mods/RoleplayRealismRu/RoleplayRealismModData.csv",
+        "Assets/Game/Mods/RoleplayRealismRu/Scripts/RuRoleplayRealismLoader.cs",
+        "Assets/Game/Mods/RoleplayRealismRu/RoleplayRealism-DreamRu.dfmod.json",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_36-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_21-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_31-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_24-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_23-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_34-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_26-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_32-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_28-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_35-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_25-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_29-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_27-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_30-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_37-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_22-0.png",
+        "Assets/Game/Mods/RoleplayRealismRu/DTextures/BUTTONS.RCI_33-0.png"
+    ],
+    "Dependencies": [
+        {
+            "Name": "roleplayrealism",
+            "IsOptional": false,
+            "IsPeer": false
+        }
+    ]
+}
